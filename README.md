@@ -1,22 +1,13 @@
-## n8n Workflows for n8n Master Browser Extension
-This repository contains a collection of n8n automation templates for the browser extension "n8n Master", sourced from the web. These templates are designed to automate a wide range of tasks and workflows using n8n, making it easy for users to find and use ready-made automations for various platforms and services.
+# n8n Workflows
 
+This repository contains a curated collection of n8n automation workflows that I have personally tested, validated, and refined over time.
+They cover a wide range of use cases across platforms and services, making it easier to integrate, scale, and optimize your automations.
 
-# 👉 [Install n8n Master in Chrome](https://chromewebstore.google.com/detail/n8n-master-workflow-assis/jikahkldllpmocjlfcmjkpecjjipbfmj)
-
-# 👉 [Install n8n Master in Edge]( https://microsoftedge.microsoft.com/addons/detail/n8n-master-workflow-ass/edkfpkbmekfhdbeaicagkbioeicbpkeo)
-
-<a href="https://chromewebstore.google.com/detail/n8n-master-workflow-assis/jikahkldllpmocjlfcmjkpecjjipbfmj">
-  <img src="img/banner.png" alt="n8n" style="max-height: 300px;">
-</a>
-
-
----
+⸻
 
 ## Disclaimer
-All automation templates in this repository were found online and are uploaded here solely for easy access and sharing. None of the templates are created or owned by the repository author. If you encounter any issues, errors, or damages resulting from the use of these templates, the repository author assumes no responsibility or liability. All rights to the original templates belong to their respective creators.
 
---- 
+These workflows are shared as-is based on my own usage and testing. They worked reliably in my environment, but every setup is different, so please review and adapt them to your own needs. I assume no responsibility for issues, errors, or damages that may result from their use.
 
 ## Categories & Template List
 
